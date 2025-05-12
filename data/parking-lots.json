@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dizengoff Center Parking",
+    "lat": 32.0723,
+    "lng": 34.7751,
+    "available": 15,
+    "total": 200,
+    "price_per_hour": 10
+  },
+  {
+    "name": "Habima Parking",
+    "lat": 32.0728,
+    "lng": 34.7810,
+    "available": 42,
+    "total": 150,
+    "price_per_hour": 8
+  }
+]
+
